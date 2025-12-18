@@ -26,6 +26,8 @@ header-includes:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+[GitHub](https://github.com/GodOfPasta/R-data-cleaning)
+
 # Механистический анализ
 
 ## Определение
